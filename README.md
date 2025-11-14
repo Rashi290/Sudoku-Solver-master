@@ -1,6 +1,6 @@
 # 🎮 Sudoku Solver
 
-A modern, interactive Sudoku game and solver built with Python and Pygame. Features a beautiful GUI with real-time validation, visual solving animation, hints, and more!
+A modern, interactive Sudoku game and solver built with Python and Pygame. Features a beautiful GUI with real-time validation, visual solving animation, and more!
 
 ## ✨ Features
 
@@ -108,4 +108,5 @@ If you encounter any issues or have suggestions, please open an issue on the rep
 ---
 
 **Enjoy solving Sudoku puzzles! 🎉**
+
 
